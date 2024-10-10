@@ -13,3 +13,5 @@
 - [gb learn] https://my.gblearn.com/student
 - [Markdown Guide] https://www.markdownguide.org/
 - :smile: :tada: :rocket
+
+[CLI commands](Docs/cli.md)
